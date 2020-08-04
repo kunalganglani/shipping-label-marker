@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Confirm renders correctly 1`] = `
+<div
+  className="css-1a6kald"
+>
+  <h3>
+    Shipping Information
+  </h3>
+  <h4>
+    Shipping Option: GROUND
+  </h4>
+  <h4>
+    Weight:  Pounds
+  </h4>
+  <h4>
+    Cost: $ 0.00
+  </h4>
+  <h3>
+    Sender's Information
+  </h3>
+  <h4>
+    Name: 
+  </h4>
+  <h4>
+    Street: 
+  </h4>
+  <h4>
+    City: 
+  </h4>
+  <h4>
+    State: 
+  </h4>
+  <h4>
+    Zip: 
+  </h4>
+  <h3>
+    Receiver's Information
+  </h3>
+  <h4>
+    Name: 
+  </h4>
+  <h4>
+    Street: 
+  </h4>
+  <h4>
+    City: 
+  </h4>
+  <h4>
+    State: 
+  </h4>
+  <h4>
+    Zip: 
+  </h4>
+</div>
+`;

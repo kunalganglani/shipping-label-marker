@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShippingLabel renders correctly 1`] = `
+Array [
+  <div
+    className="css-wd9lp9"
+  >
+    <h2>
+      Shipping Information
+    </h2>
+    <h3>
+      Shipping Option: GROUND
+    </h3>
+    <h3>
+      Weight:  Pounds
+    </h3>
+    <h3>
+      Cost: $ 0.00
+    </h3>
+  </div>,
+  <div
+    className="css-wd9lp9"
+  >
+    <h2>
+      Sender's Information
+    </h2>
+    <h4>
+      Name: 
+    </h4>
+    <h4>
+      Street: 
+    </h4>
+    <h4>
+      City: 
+    </h4>
+    <h4>
+      State: 
+    </h4>
+    <h4>
+      Zip: 
+    </h4>
+  </div>,
+  <div
+    className="css-wd9lp9"
+  >
+    <h2>
+      Receiver's Information
+    </h2>
+    <h4>
+      Name: 
+    </h4>
+    <h4>
+      Street: 
+    </h4>
+    <h4>
+      City: 
+    </h4>
+    <h4>
+      State: 
+    </h4>
+    <h4>
+      Zip: 
+    </h4>
+  </div>,
+]
+`;
